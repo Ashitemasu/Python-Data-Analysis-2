@@ -1,0 +1,8 @@
+Python Project 2 Data Analysis Questions
+
+
+Q1.  Find all null values is different columns and perform data cleaning while replacing nulls with mean values of that particular column.
+Q2.  Finding different values in the 'make' column and their number of occurances.
+Q3.  (Based on Filtering method) Show all the records having origin 'Asia' or 'Europe'.
+Q4.  (To remove unwanted records) Remove all the rows where 'Weight' is above 4000.
+Q5.  Applying a function to a column Increase all the values of 'MGP_City' by 3.
